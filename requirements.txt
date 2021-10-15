@@ -1,0 +1,5 @@
+astor==0.8.1
+black==21.9b0
+libcst==0.3.21
+notebook==6.4.4
+rise==5.7.1
